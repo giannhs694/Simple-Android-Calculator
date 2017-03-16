@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0a21a996cc9348de9a2ebe93b4351638fe333b38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_94f0f781b60c0c5e1cbcfa9477fa1704d58bbf92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_391b4bd99097a3aa2b02b47f92e223b5a8f5feb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_49c69a01d2c5ce9b6a11acee226715ad6d645377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_21961bfa53ad3337a10107abcfcf5ff0a41b3dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6218e3884a26b17c0263ee573de309859bb8c8fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_c05e9f13d2f4b3d0e9b54dce44f3c79bdc65fc84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_60f605622dba94ce83d069f1116a6f21049cecc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b9f6a419110a352f24134100f51c3c31fb71cce">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d92011d6763f027450d27fb842e9bd269fb57fb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_d028161688b442279853ac13fe5545f3bc3dca79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_71d6652e1220f97982595b775b14e0de70d7ce50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.2.1/baseLibrary-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30d2b12e06347ece26e565b60cb7de12ed14d13b">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.1_a844de778b7c23a9b40183777711cd433521307e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a00e4aaf1af04348cd828b70c2aa96415a213094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_cc93d31e1d061409f34b7755da272bb9906d1029/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="344339f156ed3c6dd741201b6b0c5b1c310133b9">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d1938e280c0e94eef3ec3ab5fe0414644b741554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_696dd7769d04464b640ba40d6bec64008995347b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3bb07e0b6e13c1825a24cdf022d1709b276d1561/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0e23c5de0ac543c5e80178b0c940e4bcdbd4535e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a40d5848439a4c50bece2b4dff602fc1b35f66a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_4462fbcd0a3eb24858309d063ad1f09c2e59b00e/classes.dex" />
+    </item>
+
+</items>

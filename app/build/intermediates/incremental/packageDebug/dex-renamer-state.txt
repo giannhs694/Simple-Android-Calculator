@@ -1,0 +1,7 @@
+#Tue Jan 24 23:51:52 EET 2017
+base.0=/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d92011d6763f027450d27fb842e9bd269fb57fb2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d1938e280c0e94eef3ec3ab5fe0414644b741554/classes.dex
+base.1=/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d1938e280c0e94eef3ec3ab5fe0414644b741554
+file.0=/home/piko/AndroidStudioProjects/Calculus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d92011d6763f027450d27fb842e9bd269fb57fb2/classes.dex
